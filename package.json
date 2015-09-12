@@ -1,0 +1,51 @@
+{
+  "name": "conf-env",
+  "version": "0.1.0",
+  "description": "Express Mvc framework env config",
+  "keywords":"express config env",
+  "author": {
+    "name": "Jerry Wu",
+    "email": "perzy_wu@163.com",
+    "url": "https://github.com/perzy"
+  },
+  "contributors": [
+    {
+      "name": "jerrywu",
+      "email": "perzy_wu@163.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perzy/conf-env"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash":"~3.9.3",
+    "glob":"~5.0.10"
+  },
+  "devDependencies": {
+
+  },
+  "files": [
+    "lib/",
+    "README.md",
+    "LICENSE",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+
+  },
+  "bugs": {
+    "url": "https://github.com/perzy/conf-env/issues"
+  },
+  "homepage": "https://github.com/perzy/conf-env",
+  "maintainers": [
+    {
+      "name": "jerrywu",
+      "email": "perzy_wu@163.com"
+    }
+  ]
+}
