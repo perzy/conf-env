@@ -23,7 +23,7 @@ Create a env config helper with the given `options`.
 
 The default config file path is process.cwd()/config/env/
 
-And generator have some file like: all.js  development.js production.js test.js etc.
+And generator have some file like: common.js  development.js production.js test.js local.js etc.
 
 
 ## Examples

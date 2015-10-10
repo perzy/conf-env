@@ -23,3 +23,9 @@ New Features:
 
 - rename all.js to common.js
 - change common.js to not must need
+
+# 0.1.7
+
+Modify:
+
+- modify README.md
