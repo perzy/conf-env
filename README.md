@@ -64,3 +64,6 @@ See demo [conf-env-demo](https://github.com/perzy/conf-env-demo)
 ## License
 
 [MIT](LICENSE)
+
+[npm-image]: https://img.shields.io/npm/v/conf-env.svg
+[npm-url]: https://npmjs.org/package/conf-env
