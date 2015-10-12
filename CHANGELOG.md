@@ -29,3 +29,11 @@ New Features:
 Modify:
 
 - modify README.md
+
+# 0.1.8
+
+New Features:
+
+- add debug log
+- cache config
+- add todo list

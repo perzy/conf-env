@@ -1,6 +1,6 @@
 {
   "name": "conf-env",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Express Mvc framework env config",
   "keywords": [
     "express config env"
@@ -22,8 +22,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lodash": "~3.9.3",
-    "glob": "~5.0.10"
+    "debug": "^2.2.0",
+    "glob": "~5.0.10",
+    "lodash": "~3.9.3"
   },
   "devDependencies": {},
   "files": [
