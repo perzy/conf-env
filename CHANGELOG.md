@@ -37,9 +37,3 @@ New Features:
 - add debug log
 - cache config
 - add todo list
-
-# 0.1.9
-
-New Features:
-
-- process.cwd() -> process.env.OLDPWD||process.cwd()
