@@ -1,6 +1,6 @@
 {
   "name": "conf-env",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Express Mvc framework env config",
   "keywords": [
     "express config env"
